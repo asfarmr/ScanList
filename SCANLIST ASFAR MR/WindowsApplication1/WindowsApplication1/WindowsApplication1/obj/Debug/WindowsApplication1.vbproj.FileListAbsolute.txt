@@ -1,0 +1,72 @@
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4Inscription.resources
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6Maps.resources
+C:\Users\asfar\Desktop\Projet IHM\ScanList VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Acceuil.resources
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Acceuil.resources
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4Inscription.resources
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6Maps.resources
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Acceuil.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4Inscription.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6Maps.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1menu.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2menuConnexion.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7GererListe.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form8ChargerListe.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form10Scanner.resources
+C:\Users\asfar\Desktop\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form11QRcode.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Acceuil.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form10Scanner.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form11QRcode.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1menu.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2menuConnexion.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4Inscription.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6Maps.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7GererListe.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form8ChargerListe.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\asfar\Desktop\S2\Projet IHM\SCANLIST ASFAR MR\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
